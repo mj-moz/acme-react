@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/acme-react/static/css/main.c8e3a4a1.css",
-    "main.js": "/acme-react/static/js/main.92c8d14e.js",
+    "main.js": "/acme-react/static/js/main.7a72f535.js",
     "static/js/453.9a8464aa.chunk.js": "/acme-react/static/js/453.9a8464aa.chunk.js",
+    "static/media/coffee-mug.jpeg": "/acme-react/static/media/coffee-mug.c48134eba271ced307e1.jpeg",
+    "static/media/featured.jpeg": "/acme-react/static/media/featured.02f0c4a44c5b7a6596b3.jpeg",
+    "static/media/backpack-2.jpeg": "/acme-react/static/media/backpack-2.35d49d35640f39e5ae77.jpeg",
+    "static/media/backpack.jpeg": "/acme-react/static/media/backpack.1f6d1de436de8dde4781.jpeg",
+    "static/media/gift-card.jpeg": "/acme-react/static/media/gift-card.ad34834c09d223fb3dfd.jpeg",
     "static/media/support-phone.jpeg": "/acme-react/static/media/support-phone.91695eb4189204ee222b.jpeg",
     "index.html": "/acme-react/index.html",
     "main.c8e3a4a1.css.map": "/acme-react/static/css/main.c8e3a4a1.css.map",
-    "main.92c8d14e.js.map": "/acme-react/static/js/main.92c8d14e.js.map",
+    "main.7a72f535.js.map": "/acme-react/static/js/main.7a72f535.js.map",
     "453.9a8464aa.chunk.js.map": "/acme-react/static/js/453.9a8464aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8e3a4a1.css",
-    "static/js/main.92c8d14e.js"
+    "static/js/main.7a72f535.js"
   ]
 }
