@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/acme-react/static/css/main.9464e533.css",
-    "main.js": "/acme-react/static/js/main.a2d48b1e.js",
+    "main.js": "/acme-react/static/js/main.ce9c9302.js",
     "static/js/453.9a8464aa.chunk.js": "/acme-react/static/js/453.9a8464aa.chunk.js",
     "static/media/coffee-mug.jpeg": "/acme-react/static/media/coffee-mug.c48134eba271ced307e1.jpeg",
     "static/media/featured.jpeg": "/acme-react/static/media/featured.02f0c4a44c5b7a6596b3.jpeg",
@@ -11,11 +11,11 @@
     "static/media/support-phone.jpeg": "/acme-react/static/media/support-phone.91695eb4189204ee222b.jpeg",
     "index.html": "/acme-react/index.html",
     "main.9464e533.css.map": "/acme-react/static/css/main.9464e533.css.map",
-    "main.a2d48b1e.js.map": "/acme-react/static/js/main.a2d48b1e.js.map",
+    "main.ce9c9302.js.map": "/acme-react/static/js/main.ce9c9302.js.map",
     "453.9a8464aa.chunk.js.map": "/acme-react/static/js/453.9a8464aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9464e533.css",
-    "static/js/main.a2d48b1e.js"
+    "static/js/main.ce9c9302.js"
   ]
 }
